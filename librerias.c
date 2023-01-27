@@ -1,7 +1,10 @@
 #include<stdio.h> //Librerías básicas
 #include<conio.h> //Librerías básicas
+
+TILDES
 #include <wchar.h> //Librerías necesarias para tildes
 #include <locale.h> //Librerías necesarias para tildes
 //		setlocale(LC_ALL, ""); Añadir esto dentro del main para imprimir tildes
 
+FECHAS
 
