@@ -1,5 +1,6 @@
 #include<stdio.h> //Librerías básicas
 #include<conio.h> //Librerías básicas
+#include<stdbool.h> //Booleanos
 
 TILDES
 #include <wchar.h> //Librerías necesarias para tildes
