@@ -2,7 +2,10 @@
 
 //if -- else if
 
-//while
+//ciclo while o ciclo for ¿cual usar?
+
+Utilizamos while de manera general, aunque el ciclo/bucle for es más sencillo de utilizar
+Utilizamos el ciclo/bucle for cuando conocemos la cantidad de veces que queremos que se ejecute un bloque de instrucciones
 
 //Definir constantes (Hay que hacerlo antes del main) -- #define
 
