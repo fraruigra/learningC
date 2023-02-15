@@ -1,5 +1,7 @@
 //int, float, printf ("%i", variable || "%.2f", variableFloat), scanf ("%f", &variable)
 
+//Cómo saber si un número es par i%2==0 || Cómo saber si un número es múltiplo de 3 i%3==0
+
 //if -- else if
 
 //ciclo while o ciclo for ¿cual usar?
