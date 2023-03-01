@@ -25,3 +25,13 @@ Utilizamos el ciclo/bucle for cuando conocemos la cantidad de veces que queremos
 			printf("\n\nERROR, SUELDO INTRODUCIDO INFERIOR AL MÍNIMO. POR FAVOR INTRODUZCA SUELDO CORRECTO... \n\n\n");
 			goto restart;
 		}
+		
+//Los vectores son las "cajitas", breve explicación para "moverse" por las cajitas
+	int f,vector[4];
+	
+	for (f=1;f<=4;f++){
+		printf("Introduce el %iº valor del primer vector: ",f);
+		scanf("%i",&vector[f]);
+		printf("%i",&vector[f]);
+	}
+
