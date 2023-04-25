@@ -5,7 +5,12 @@
 TILDES
 #include <wchar.h> //Librerías necesarias para tildes
 #include <locale.h> //Librerías necesarias para tildes
-//		setlocale(LC_ALL, ""); Añadir esto dentro del main para imprimir tildes
+//		setlocale(LC_ALL, ""); //Añadir esto dentro del main para imprimir tildes
+
+Limpiar la pantalla
+#include <stdlib.h> //Librería necesaria para poder limpiar la pantalla
+system("cls"); //Limpiamos la pantalla
+
 
 FECHAS
 
